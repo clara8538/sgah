@@ -2,5 +2,5 @@
 Systeme de gestion des auditoires
 
 
-Clara yakusu Pandi
+Clara yakusu Pandi,
 Elianne Mavinga Lylolia
